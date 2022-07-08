@@ -234,6 +234,11 @@ function httprobe_latest(){
     echo -e "\n [#] Installation Done"
 }
 
+function dalfox_latest(){
+    echo -e "\n [#] Dalfox Latest Installation Started..."
+    go install github.com/hahwul/dalfox/v2@latest
+    echo -e "\n [#] Installation Done"
+}
 
 
 function all_install(){
@@ -259,6 +264,7 @@ function all_install(){
     nuclei_latest
     httpx_latest
     httprobe_latest
+    dalfox_latest
     
 }
 
