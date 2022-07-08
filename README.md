@@ -17,7 +17,55 @@
   </a>
 </p>
 
-- Its Fast
+<h3> Why You Need To Use Huntigo Tools </h3>
+
+- Its Super fast
+- It will save your time
 - It Download all the package from real source
-- It doesnt use apt to install tools so tools can be downloaded and installed in any distro
+- Using this tools your hunting will be more relaxable
+
+
+### How To Install
+
+```
+sudo su
+```
+```
+git clone https://github.com/rahad-infosec/Huntigo
+```
+```
+cd Huntigo
+```
+```
+chmod +x huntigo.sh
+```
+```
+bash huntigo.sh
+```
+
+
+<h3> [#] Tools List [#] </h3>
+
+- go_latest
+- paramspider_latest
+- assetsfinder_latest
+- sublist3r_latest
+- amass_latest_kali
+- massdns_latest_linux
+- massdns_latest_kali
+- puredns_latest
+- subfinder_latest_kali
+- knockpy_latest
+- masscan_latest_linux
+- masscan_latest_kali
+- subjack_latest
+- otxurls_latest
+- subzy_latest
+- kxss_latest
+- subjs_latest
+- gf_latest
+- waybackurls_latest
+- nuclei_latest
+- httpx_latest
+- httprobe_latest
 
